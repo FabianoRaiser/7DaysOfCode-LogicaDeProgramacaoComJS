@@ -27,7 +27,7 @@ if (confirm('Podemos prosseguir?')){
 function validarDados(){
     if (userName == "" || userAge == ""  || userLanguage == ""){
         alert('Você esqueceu algo. Preencha novamente.');
-        window.location.reload();
+        pegarDados();
     } else {
         alert(`Olá ${userName}, você tem ${userAge} anos e já está aprendendo ${userLanguage}`);
         enjoyQuestion();
