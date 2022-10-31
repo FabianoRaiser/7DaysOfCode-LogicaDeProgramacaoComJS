@@ -19,7 +19,7 @@ Nesse desafio de Logica de programação com Javascript, o desafiado é posto pa
   
       * Day 4 *
 
--
+ O desafiado deve escrever um código do tipo Mentalista.
 
       * Day 5 *
 
