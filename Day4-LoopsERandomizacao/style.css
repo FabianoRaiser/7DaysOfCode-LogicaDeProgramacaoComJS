@@ -1,0 +1,25 @@
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 2em 1em 1em;
+}
+
+.inputs {
+    margin-left: 3em;
+}
+
+.inputs input, .inputs button {
+    padding: 1em;
+    margin-right: 10px;
+}
+
+.inputs button {
+    color: #000;
+    font-weight: bold;
+    background: #fff;
+}
+
+.inputs button:hover {
+    background: #c7c6c6;
+}
+
