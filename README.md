@@ -23,7 +23,7 @@ Nesse desafio de Logica de programação com Javascript, o desafiado é posto pa
 
       * Day 5 *
 
--
+ O desafiado deve escrever um código utilizando arrays e coleções para criar uma lista de compras.
 
       * Day 6 *
 
