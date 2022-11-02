@@ -30,3 +30,5 @@ Nesse desafio de Logica de programação com Javascript, o desafiado é posto pa
  O desafiado deve aprimorar o código para obter uma função para remover os itens da lista de compras
 
     * Day 7 *
+
+ O Desafiado deve escrever um código que execute as operações de uma calculadora.
